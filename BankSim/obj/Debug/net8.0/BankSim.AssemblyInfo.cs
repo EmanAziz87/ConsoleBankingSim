@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a210fcccf77baf9bbc30d7f35f59fe4a884db370")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
